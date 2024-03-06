@@ -5,3 +5,6 @@ body {
   max-width: 38rem;
   padding: 2rem;
 }
+body {
+  background-color: rgba(0, 255, 170, 0.808);
+}
